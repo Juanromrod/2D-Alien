@@ -23,6 +23,7 @@ public class Nave : MonoBehaviour
         minY = esquinaInfIz.y;
         maxX = esquinaSupDer.x;
         maxY = esquinaSupDer.y;
+        Debug.Log("Cambio de tipo de disparo con la letra 'M' ");
     }
 
 
